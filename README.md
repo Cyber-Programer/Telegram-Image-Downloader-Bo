@@ -16,14 +16,13 @@ This Python script is a Telegram bot that allows users to download images by pro
 
 - `telebot` for creating a Telegram bot.
 - `requests` for making HTTP requests to download images.
+---
 
-
-### Usage:
-
+## Replace with your telegram bot token
 ```bash
   bot_token = 'YOUR_BOT_TOKEN'
 ```
-## Replace with your telegram bot token
+# Usage:
 - `Start` a chat with the bot and send the `/download` command.
 
 - Provide the direct download link (URL) of the image.
