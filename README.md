@@ -31,6 +31,8 @@ This Python script is a Telegram bot that allows users to download images by pro
 ## BOT Image
 <p aling='center'>
   <img src="https://raw.githubusercontent.com/Cyber-Programer/Telegram-Image-Downloader-Bot/main/Screenshot_2023-10-13-22-26-22-95.png" width=400>
+  <br>
   <img src="https://raw.githubusercontent.com/Cyber-Programer/Telegram-Image-Downloader-Bot/main/Screenshot_2023-10-13-22-27-54-68.png" width=400>
+  <br>
   <img src="https://raw.githubusercontent.com/Cyber-Programer/Telegram-Image-Downloader-Bot/main/Screenshot_2023-10-13-22-28-12-68.png"width=400>
 </p>
