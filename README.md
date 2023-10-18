@@ -1,4 +1,6 @@
-'6398320783:AAEkSjq7qsQMuIRPW0hjqihdJ5tvsRAYQDw'
+<p align="center">
+  <img src="removebg.banner.png">
+</p>
 # Telegram-Image-Downloader-Bot
 
 This Python script is a Telegram bot that allows users to download images by providing a direct download link and specifying the desired file name. It guides users through a conversation to input the URL and file name, and then it proceeds to download the image from the URL and send it back to the user.
