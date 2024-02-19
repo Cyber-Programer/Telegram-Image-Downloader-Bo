@@ -59,7 +59,7 @@ try:
     bot.polling()
 except:
     pass
-# bot = telebot.TeleBot('6398320783:AAEkSjq7qsQMuIRPW0hjqihdJ5tvsRAYQDw')
+# bot = telebot.TeleBot('')
 
 '''
 # Function to handle the /start command
